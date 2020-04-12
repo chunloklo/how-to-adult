@@ -1,6 +1,6 @@
 ---
 title: Finding Your First Internship
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-04-03"
 description: "Tips and tricks for finding and performing at your first internship."
 ---
 don't do this during a global pandemic :(

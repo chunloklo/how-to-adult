@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/how-to-adult",
   siteMetadata: {
     title: `How To Adult: CS Edition`,
     author: {

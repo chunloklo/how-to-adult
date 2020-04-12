@@ -1,6 +1,6 @@
 ---
 title: Your First Full Time Job
-date: "2015-05-06T23:46:37.121Z"
+date: "2020-04-02"
 ---
 
 Congratulations! You are in your last year at the Institute and wondering how to distinguish between your offers which would best suit you and your goals. Keep reading to find out what you need to consider before signing an offer letter!
