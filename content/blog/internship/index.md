@@ -3,13 +3,6 @@ title: Finding Your First Internship
 date: "2020-04-03"
 description: "Tips and tricks for finding and performing at your first internship."
 ---
-don't do this during a global pandemic :(
-
-* Apply to med companies to develop the cure for corona
-* Code the RNA sequence of COVID-19 and create the vaccine
-
-
-
 # Confidence & Mindset: **Dear freshmen, internships are not just for upperclassmen!**
 
 Welcome to Georgia Tech’s campus. You may have already felt this at the beginning of the semester, but August and September is always crunch time for attending info sessions and career fairs. Students use these platforms as a way to find an internship or job.
