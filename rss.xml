@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[How To Adult: CS Edition]]></title><description><![CDATA[placeholder description please replace me.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Apr 2020 16:25:29 GMT</lastBuildDate><item><title><![CDATA[Finding Your First Internship]]></title><description><![CDATA[don’t do this during a global pandemic :( Apply to med companies to develop the cure for corona Code the RNA sequence of COVID-19 and create…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/internship/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/internship/</guid><pubDate>Fri, 03 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;don’t do this during a global pandemic :(&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[How To Adult: CS Edition]]></title><description><![CDATA[placeholder description please replace me.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Apr 2020 16:49:23 GMT</lastBuildDate><item><title><![CDATA[Finding Your First Internship]]></title><description><![CDATA[don’t do this during a global pandemic :( Apply to med companies to develop the cure for corona Code the RNA sequence of COVID-19 and create…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/internship/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/internship/</guid><pubDate>Fri, 03 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;don’t do this during a global pandemic :(&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Apply to med companies to develop the cure for corona&lt;/li&gt;
 &lt;li&gt;Code the RNA sequence of COVID-19 and create the vaccine&lt;/li&gt;
@@ -34,7 +34,7 @@ When designing your resume, you want to keep in mind that recruiters will be loo
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e1729694a9ce7334eeb0b3dae6b31739/6f6fc/resume_example_1.jpg&quot;
+    href=&quot;/how-to-adult/static/e1729694a9ce7334eeb0b3dae6b31739/6f6fc/resume_example_1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -47,11 +47,11 @@ When designing your resume, you want to keep in mind that recruiters will be loo
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Resume Example 1&quot;
         title=&quot;Resume Example 1&quot;
-        src=&quot;/static/e1729694a9ce7334eeb0b3dae6b31739/1c72d/resume_example_1.jpg&quot;
-        srcset=&quot;/static/e1729694a9ce7334eeb0b3dae6b31739/a80bd/resume_example_1.jpg 148w,
-/static/e1729694a9ce7334eeb0b3dae6b31739/1c91a/resume_example_1.jpg 295w,
-/static/e1729694a9ce7334eeb0b3dae6b31739/1c72d/resume_example_1.jpg 590w,
-/static/e1729694a9ce7334eeb0b3dae6b31739/6f6fc/resume_example_1.jpg 617w&quot;
+        src=&quot;/how-to-adult/static/e1729694a9ce7334eeb0b3dae6b31739/1c72d/resume_example_1.jpg&quot;
+        srcset=&quot;/how-to-adult/static/e1729694a9ce7334eeb0b3dae6b31739/a80bd/resume_example_1.jpg 148w,
+/how-to-adult/static/e1729694a9ce7334eeb0b3dae6b31739/1c91a/resume_example_1.jpg 295w,
+/how-to-adult/static/e1729694a9ce7334eeb0b3dae6b31739/1c72d/resume_example_1.jpg 590w,
+/how-to-adult/static/e1729694a9ce7334eeb0b3dae6b31739/6f6fc/resume_example_1.jpg 617w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -65,7 +65,7 @@ When designing your resume, you want to keep in mind that recruiters will be loo
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d18f08732c63d1f3e072ab38263f5743/4d731/resume_example_2.jpg&quot;
+    href=&quot;/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/4d731/resume_example_2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -78,13 +78,13 @@ When designing your resume, you want to keep in mind that recruiters will be loo
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Resume Example 2&quot;
         title=&quot;Resume Example 2&quot;
-        src=&quot;/static/d18f08732c63d1f3e072ab38263f5743/1c72d/resume_example_2.jpg&quot;
-        srcset=&quot;/static/d18f08732c63d1f3e072ab38263f5743/a80bd/resume_example_2.jpg 148w,
-/static/d18f08732c63d1f3e072ab38263f5743/1c91a/resume_example_2.jpg 295w,
-/static/d18f08732c63d1f3e072ab38263f5743/1c72d/resume_example_2.jpg 590w,
-/static/d18f08732c63d1f3e072ab38263f5743/a8a14/resume_example_2.jpg 885w,
-/static/d18f08732c63d1f3e072ab38263f5743/fbd2c/resume_example_2.jpg 1180w,
-/static/d18f08732c63d1f3e072ab38263f5743/4d731/resume_example_2.jpg 1352w&quot;
+        src=&quot;/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/1c72d/resume_example_2.jpg&quot;
+        srcset=&quot;/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/a80bd/resume_example_2.jpg 148w,
+/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/1c91a/resume_example_2.jpg 295w,
+/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/1c72d/resume_example_2.jpg 590w,
+/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/a8a14/resume_example_2.jpg 885w,
+/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/fbd2c/resume_example_2.jpg 1180w,
+/how-to-adult/static/d18f08732c63d1f3e072ab38263f5743/4d731/resume_example_2.jpg 1352w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -243,7 +243,7 @@ Now, the breakdown. There is a bunch of information out there about how your mon
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6b07219fafa936184c14bb6401c5d911/4a41d/budget.webp&quot;
+    href=&quot;/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/4a41d/budget.webp&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -256,12 +256,12 @@ Now, the breakdown. There is a bunch of information out there about how your mon
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Budgeting Rule Pie Chart&quot;
         title=&quot;Budgeting Rule Pie Chart&quot;
-        src=&quot;/static/6b07219fafa936184c14bb6401c5d911/5ca24/budget.webp&quot;
-        srcset=&quot;/static/6b07219fafa936184c14bb6401c5d911/cbe2e/budget.webp 148w,
-/static/6b07219fafa936184c14bb6401c5d911/3084c/budget.webp 295w,
-/static/6b07219fafa936184c14bb6401c5d911/5ca24/budget.webp 590w,
-/static/6b07219fafa936184c14bb6401c5d911/dad35/budget.webp 885w,
-/static/6b07219fafa936184c14bb6401c5d911/4a41d/budget.webp 950w&quot;
+        src=&quot;/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/5ca24/budget.webp&quot;
+        srcset=&quot;/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/cbe2e/budget.webp 148w,
+/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/3084c/budget.webp 295w,
+/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/5ca24/budget.webp 590w,
+/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/dad35/budget.webp 885w,
+/how-to-adult/static/6b07219fafa936184c14bb6401c5d911/4a41d/budget.webp 950w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
