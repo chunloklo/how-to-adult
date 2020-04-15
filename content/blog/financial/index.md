@@ -3,6 +3,7 @@ title: Finances
 date: "2020-04-01"
 description: Tips and Tricks for managing finances whether for your internship or your full-time job.
 ---
+Tips and Tricks for managing finances whether for your internship or your full-time job.
 
 # Intro:
 

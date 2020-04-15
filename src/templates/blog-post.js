@@ -38,6 +38,26 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div
+        style={{
+          marginBottom: rhythm(.3),
+          marginTop: 0,
+        }}>
+        <h4 style={{
+          fontFamily: `Montserrat, sans-serif`,
+          marginTop: 0,
+          marginBottom: 0,
+        }}>
+          <Link
+          style={{
+            boxShadow: `none`,
+          }}
+            to={`/`}
+          >
+            {"Back To The Main"}
+          </Link>
+          </h4>
+        </div>
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -59,16 +79,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         >
           <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+            {next && (
+              <Link to={next.fields.slug} rel="next">
+                ← {next.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+            {previous && (
+              <Link to={previous.fields.slug} rel="prev">
+                {previous.frontmatter.title} →
               </Link>
             )}
           </li>

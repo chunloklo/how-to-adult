@@ -6,7 +6,6 @@ import { rhythm, scale } from "../utils/typography"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
-
   if (location.pathname === rootPath) {
     header = (
       <h1
@@ -29,10 +28,13 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <h3
+      <div>
+      <h1
         style={{
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
+          marginBottom:0,
+          ...scale(1.5),
         }}
       >
         <Link
@@ -44,7 +46,22 @@ const Layout = ({ location, title, children }) => {
         >
           {title}
         </Link>
-      </h3>
+      </h1>
+      <h4 style={{
+        fontFamily: `Montserrat, sans-serif`,
+        marginTop: 0,
+        marginBottom: rhythm(1.5),
+      }}>
+        <Link
+        style={{
+          boxShadow: `none`,
+        }}
+          to={`/`}
+        >
+          {"Back To The Main"}
+        </Link>
+        </h4>
+      </div>
     )
   }
   return (
