@@ -42,7 +42,7 @@ Lastly, to give you a better sense of the internship landscape, here are the kin
 
 Over 350 companies came to recruit us in Fall 2019, so don’t doubt yourself and think you have no shot!
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 # <a name="resume"></a>Resume
 
 A **resume** is a document that lists your background, applicable skills, accomplishments, and any other pertinent information you would want your potential future employer to know. Other pertinent information could include things like
@@ -102,7 +102,7 @@ While answering these questions, keep in mind that your interviewer is looking f
 * Ask questions
   * The interviewer might ask if you have any questions for them. Now's a good time to ask about what he/she is working on, company culture, or anything else you've researched about them. This isn't necessary to do well, but remember that you are also interviewing the company, so it's in your best interest to get as much information from a person who works there as possible!
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 ## <a name="technical-interviews"></a>Technical Interviews
 Most companies will have at least one round of technical interviews, which test your knowledge of CS fundamentals. You may be asked to code, explain a technical concept, or design a system. Typically you will be interviewed by another engineer, or a technical manager.
 
@@ -117,7 +117,7 @@ There are several types of questions you can get in a technical interview, but t
 
 Usually, it won't matter what language you write the solution in (pseudocode is fine in most cases). However, make sure to pick a language that you are familiar with. Even better if that language isn't too verbose. You don't want to waste time thinking about data types in Java or C, for example (which is why Python is a popular language people use for interviews). It's more important that your code is readable and the logic is correct. Usually, interviewers will be lenient about minor syntax errors, so don't stress too much about it. You could be asked to write the code by hand, or type it out on a computer. Some interviewers may require that the code be executable, in which case they will likely let you look up syntax online.
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 ## <a name="tips-on-preparing"></a>Tips on preparing
 * Be well versed in data structures and algorithms (taught in CS 1332).
   * Common data structures used in interviews (not exhaustive): Hash map, hash set, array/list, stack, queue, tree, graph. For each data structure, know what the best use cases for them are, and the runtime complexity of adding/removing/finding elements in them and why. Know the terminology associated with each data structure.
@@ -131,7 +131,7 @@ Usually, it won't matter what language you write the solution in (pseudocode is 
     * GT TIP is a COC club that meets weekly and hosts technical interview workshops. It is a great resource for solving problems as a group and talking through solutions.
   * If you can't get the solution in time, think critically about where your logic went wrong, or what you didn't consider. What can you learn from this problem? What can you do in the future so this doesn't happen again? Keep this in mind for the next problem.
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 ## <a name="during-interview"></a>During the interview
 1. **Make sure you understand the problem.** If you don't, **ask questions**. Some interviewers will purposely leave out information to see if you'll think to ask. It's good to talk through a basic example as a sanity check. I've had some interviews where I assumed I knew the problem (I didn't), and tried to solve the wrong thing for 20 whole minutes.
 2. Ask any relevant questions about the parameters of the problem. In example 1, you can ask what the output should look like, or if the list of numbers can contain negatives, or floats/doubles, etc.
@@ -142,11 +142,11 @@ Usually, it won't matter what language you write the solution in (pseudocode is 
 6. Once you've got a solution down, it's important to write test cases for your logic. Think of edge cases you haven't covered. Think of how to handle invalid inputs. Think about the case where the input is huge, and if you're being memory efficient. A lot of interviews may hinge on how good your test cases are, because that's a huge part of writing good code in the real world.
 ![Unit Test Code Example](unit_test.png)
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 ## <a name="after-interview"></a>After the interview
 If you solved the problem efficiently and accurately, congratulations! If not, don't be discouraged. Hardly anyone does great on every interview. If there's time at the end of the interview, ask your interviewer for feedback on how you did.
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 # <a name="getting-the-most"></a>Getting the Most Out of Your Internship
 Congratulations on getting that gig! Here's how to make the most of those few months in a new workplace.
 
@@ -161,7 +161,7 @@ Congratulations on getting that gig! Here's how to make the most of those few mo
 * **Network**. Internships are the prime time to branch out, and the people you meet could become future friends, employers, coworkers, or mentors. Lunch breaks and company outings are a great way to talk to someone new. You can even ask someone to have coffee for 30 minutes in the break room! Don't limit yourself to the people you work with--feel free to ping someone from a different team or organization. Most people are happy to talk about themselves and give advice to an intern. This can be daunting (and a little tiring if you're an introvert), but stepping outside your comfort zone is a part of growing your career, and strengthening your networking skills will pay back in spades later.
 * Take notes on if you'd like to come back after graduating. Do you like the company culture? the work you're doing? career advancement opportunities? career flexibility? Don't forget to evaluate the city and state you're interning in. Do you like the culture and vibe? How is the cost of living? What other career opportunities are there? Don't forget an internship is also about you interviewing the company and surrounding area.
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 
 # <a name="resources"></a>Resources Mentioned in this Article
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) by Gayle Laakmann
@@ -172,4 +172,4 @@ Congratulations on getting that gig! Here's how to make the most of those few mo
 * [CareerBuzz website](https://gatech-csm.symplicity.com/students/?signin_tab=0)
 * [C2D2](https://career.gatech.edu/)
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)

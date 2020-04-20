@@ -20,7 +20,7 @@ Another thing that employers offer to full-time employees, but don’t offer int
 
 Moving on to the next chapter of life is an exciting time, but it’s not something that you want to dive head-first into. Take some time to reflect and really evaluate what you want out of your career and how you can achieve that.
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 # <a name="research"></a>Researching Your City
 ![City choices](cities.png)
 
@@ -38,9 +38,9 @@ A helpful resource to compare how much a salary in one city equates to another i
 
 This phase of the job hunt is either people’s favorite or their nightmare, but following these tips will make the selection process much less of a headache.
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)
 # <a name="resources"></a>Resources Mentioned in this Article
 * [Cost of Living Calculator](https://www.nerdwallet.com/cost-of-living-calculator)
 * [Explanation of Full-time Benefits](https://www.goodcall.com/career/job-offer/)
 
-[**Back to Table of Contents**](#table-of-content)
+[**Back to Top**](#top)

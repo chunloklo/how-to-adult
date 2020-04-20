@@ -54,7 +54,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
             to={`/`}
           >
-            {"Back To The Main"}
+            {"Back To Main"}
           </Link>
           </h4>
         </div>

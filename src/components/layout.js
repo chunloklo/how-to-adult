@@ -58,7 +58,7 @@ const Layout = ({ location, title, children }) => {
         }}
           to={`/`}
         >
-          {"Back To The Main"}
+          {"Back To Main"}
         </Link>
         </h4>
       </div>
